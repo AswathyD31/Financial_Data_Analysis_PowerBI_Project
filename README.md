@@ -35,6 +35,7 @@ The dashboard highlights that North American and European countries have strong 
 ________________________________________
 ## 2. Profit Overview
 The Profit Overview Dashboard focuses on the profitability aspects of the business, including margins and profits segmented by country and product categories.
+
 **Key Metrics:**
 
 *	**Sales Amount Last Year (LY):** $26.42M
