@@ -75,7 +75,9 @@ Page Navigation
 The report uses custom buttons for navigating between different pages:
 •	Sales Page: Overview of sales across different countries and time periods.
 •	Profit Page: Detailed analysis of profit trends and top products.
-<span style="color: blue;">To navigate, Cntrl + click on the buttons on each respective page.</span>
+
+**<span style="color: blue;">To navigate, Cntrl + click on the buttons on each respective page.</span>**
+
 To navigate, Cntrl + click on the buttons on each respective page.
 
 # Conclusion
