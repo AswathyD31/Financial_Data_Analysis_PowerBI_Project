@@ -60,7 +60,8 @@ The Profit Overview Dashboard focuses on the profitability aspects of the busine
 •	**Sales Amount and Total Profit by Country:** While sales are high across all countries, France, Germany, and the United States lead in overall profitability.
 
 •	**Top 5 Products by Profit:** "Paseo" generates the highest profit, followed by "VTT" and "Amarilla."
-
+# Profit Dashboard
+![image alt](https://github.com/AswathyD31/Financial_Data_Analysis_PowerBI_Project/blob/fa3cecb1684d426c861272a19a7513148c762210/Profit%20Overview.JPG)
 ## Key Takeaways:
 This dashboard emphasizes the profitability of key markets and product lines, with Europe leading in terms of profit margins and North America contributing to overall sales.
 ________________________________________
