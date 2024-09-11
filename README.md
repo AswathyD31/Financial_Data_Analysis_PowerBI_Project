@@ -69,14 +69,17 @@ ________________________________________
 ________________________________________
 # Technology Stack
 ___
-•	Power BI: Used for data visualization and analysis.
-•	DAX: For custom calculations and measures (e.g., profit calculations).
-Page Navigation
-The report uses custom buttons for navigating between different pages:
-•	Sales Page: Overview of sales across different countries and time periods.
-•	Profit Page: Detailed analysis of profit trends and top products.
+•	**Power BI:** Used for data visualization and analysis.
 
-> To navigate, Cntrl + click on the buttons on each respective page.
+•	**DAX:** For custom calculations and measures (e.g., profit calculations).
+
+**Page Navigation:** The report uses custom buttons for navigating between different pages:
+
+•	**Sales Page:** Overview of sales across different countries and time periods.
+
+•	**Profit Page:** Detailed analysis of profit trends and top products.
+
+**To navigate, Cntrl + click on the buttons on each respective page.**
 
 # Conclusion
 ___
