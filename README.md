@@ -33,7 +33,7 @@ The Sales Overview Dashboard showcases the overall sales performance, trends, an
 ## Key Takeaways:
 The dashboard highlights that North American and European countries have strong sales, and product categories like Paseo and VTT drive the majority of the revenue.
 ________________________________________
-## 2. Profit Overview
+# 2. Profit Overview
 The Profit Overview Dashboard focuses on the profitability aspects of the business, including margins and profits segmented by country and product categories.
 
 ## Key Metrics:
