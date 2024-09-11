@@ -9,7 +9,7 @@ The Sales Overview Dashboard showcases the overall sales performance, trends, an
 
 ## Key Metrics:
 
-*	***Sales Amount:** $118.73M
+*	**Sales Amount:** $118.73M
 
 * **Total Orders**: 1M
 
