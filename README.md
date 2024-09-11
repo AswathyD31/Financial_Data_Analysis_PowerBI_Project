@@ -78,7 +78,8 @@ ___
 
 *	**DAX:** For custom calculations and measures (e.g., profit calculations).
 
-* **Page Navigation:** The report uses custom buttons for navigating between different pages:
+# Page Navigation:
+The report uses custom buttons for navigating between different pages:
 
 *	**Sales Page:** Overview of sales across different countries and time periods.
 
