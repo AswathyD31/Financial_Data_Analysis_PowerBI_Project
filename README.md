@@ -61,11 +61,15 @@ This dashboard emphasizes the profitability of key markets and product lines, wi
 ________________________________________
 # Features and Interactive Elements:
 
-•	Date Selection: Both dashboards allow users to interactively filter data by selecting date ranges, enabling dynamic analysis of sales and profit trends.
-•	Country and Product Filters: Users can click on countries or product categories to drill down into the data for more detailed insights.
-•	Visuals Used: Bar charts, line charts, and maps are effectively used to visualize the data and provide a clear understanding of trends and performance.
-•	Page Navigation: Seamless navigation between different report pages (e.g., Sales Overview and Profit Analysis) using custom buttons.
-•	Time Intelligence: Visualizes profit and sales trends over time, with options to filter by year or quarter.
+•	**Date Selection:** Both dashboards allow users to interactively filter data by selecting date ranges, enabling dynamic analysis of sales and profit trends.
+
+•	**Country and Product Filters:** Users can click on countries or product categories to drill down into the data for more detailed insights.
+
+•	**Visuals Used:** Bar charts, line charts, and maps are effectively used to visualize the data and provide a clear understanding of trends and performance.
+
+•	**Page Navigation:** Seamless navigation between different report pages (e.g., Sales Overview and Profit Analysis) using custom buttons.
+
+•	**Time Intelligence:** Visualizes profit and sales trends over time, with options to filter by year or quarter.
 ________________________________________
 # Technology Stack
 ___
@@ -73,7 +77,7 @@ ___
 
 •	**DAX:** For custom calculations and measures (e.g., profit calculations).
 
-**Page Navigation:** The report uses custom buttons for navigating between different pages:
+* **Page Navigation:** The report uses custom buttons for navigating between different pages:
 
 •	**Sales Page:** Overview of sales across different countries and time periods.
 
