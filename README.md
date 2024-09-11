@@ -30,6 +30,10 @@ The Sales Overview Dashboard showcases the overall sales performance, trends, an
 
 *	**Discounts Offered by Discount Band:** Discounts are grouped into various bands, with 57.89% of the total discounts coming from a single band.
 
+# Sales DashBoard
+![imagealt]https://github.com/AswathyD31/Financial_Data_Analysis_PowerBI_Project/blob/a3d46ffdb450ca350214980b62f2e5d8f30ec25d/Sales%20Overview.JPG
+
+
 ## Key Takeaways:
 The dashboard highlights that North American and European countries have strong sales, and product categories like Paseo and VTT drive the majority of the revenue.
 ________________________________________
