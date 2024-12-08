@@ -5,7 +5,7 @@ This report provides a comprehensive analysis of sales and profit trends across 
 The dashboard consists of two main sections: Sales Overview and Profit Overview. Each section highlights key performance indicators (KPIs) and visual breakdowns to better understand the business's financial performance.
 ________________________________________
 
-# Check out the presentation of the Financial_Data_Analysis Dashboard here ⤵:
+## Check out the presentation of the Financial_Data_Analysis Dashboard here ⤵:
 https://www.linkedin.com/feed/update/urn:li:ugcPost:7271435577709752320/
 
 # 1. Sales Overview
