@@ -4,6 +4,10 @@
 This report provides a comprehensive analysis of sales and profit trends across multiple countries and product categories using the Power BI platform. The data used for this analysis spans from January 1, 2013, to December 31, 2014.
 The dashboard consists of two main sections: Sales Overview and Profit Overview. Each section highlights key performance indicators (KPIs) and visual breakdowns to better understand the business's financial performance.
 ________________________________________
+
+Check out the presentation of the Global Superstore Sales Analysis Dashboard here⤵:
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7271435577709752320/
+
 # 1. Sales Overview
 The Sales Overview Dashboard showcases the overall sales performance, trends, and product-specific metrics across countries. Below is a summary of the key metrics:
 
